@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jinuk Chanthusa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/user-attachments/assets/db1f98dd-a6b4-4e3e-bde3-ab85d972c5f7" width="230">
+<img align='right' src="https://github.com/user-attachments/assets/db1f98dd-a6b4-4e3e-bde3-ab85d972c5f7 remove this to active" width="230">
 <p><em>Full Stack Software Enginner from <a href="https://www.bcu.ac.uk/">University of Birminhamcity </a><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmhyM2k0ZTNhc3did2hvMWVwdGJiM2FqMmh4bjI0OG5uZDZnOHZpeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lEbkph3f721QFXr84Y/giphy.gif" width="30"></br>Software Engineer at <a href="/">Yaka Technolegies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
