@@ -5,6 +5,7 @@
 
 [![Linkedin: jinuk](https://img.shields.io/badge/-dill.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dill.dev/)](https://www.linkedin.com/in/dill.dev/)
 [![GitHub jinuk](https://img.shields.io/github/followers/dill-lk?label=follow&style=social)](https://github.com/dill-lk)
+[![GitHub jinuk](https://img.shields.io/github/stars/dill-lk?label=stars&style=social)](https://github.com/dill-lk)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
