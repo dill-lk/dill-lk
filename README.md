@@ -6,7 +6,7 @@
 [![Linkedin: jinuk](https://img.shields.io/badge/-dill.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dill.dev/)](https://www.linkedin.com/in/dill.dev/)
 [![GitHub jinuk](https://img.shields.io/github/followers/dill-lk?label=follow&style=social)](https://github.com/dill-lk)
 [![GitHub jinuk](https://img.shields.io/github/stars/dill-lk?label=stars&style=social)](https://github.com/dill-lk)
-[![Linkedin: jinuk](https://img.shields.io/badge/-visit.website↗-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://dill-is-a-dev.vercel.app/)](https://dill-is-a-dev.vercel.app/)
+[![Linkedin: jinuk](https://img.shields.io/badge/-visit.website↗-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.hellodill.dev/)](https://www.hellodill.dev/)
 
 
 
