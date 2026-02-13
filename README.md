@@ -3,6 +3,10 @@
 <p><em>Full Stack Software Enginner from <a href="https://www.bcu.ac.uk/">University of Birminhamcity </a><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmhyM2k0ZTNhc3did2hvMWVwdGJiM2FqMmh4bjI0OG5uZDZnOHZpeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lEbkph3f721QFXr84Y/giphy.gif" width="30"></br>Software Engineer at <a href="/">Yaka Technolegies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
+
+
+
 [![Linkedin: jinuk](https://img.shields.io/badge/-dill.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dill.dev/)](https://www.linkedin.com/in/dill.dev/)
 [![GitHub jinuk](https://img.shields.io/github/followers/dill-lk?label=follow&style=social)](https://github.com/dill-lk)
 [![GitHub jinuk](https://img.shields.io/github/stars/dill-lk?label=stars&style=social)](https://github.com/dill-lk)
@@ -35,3 +39,6 @@ const dill = {
   <sub>The snake is fueled by <b>287 contributions</b> and counting!</sub>
 </div>
 
+<div style="display: flex; justify-content: flex-end; filter: drop-shadow(0 0 12px rgba(136, 58, 234, 0.3)); margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/dill-lk/dill-lk/main/github-metrics.svg" width="40%" />
+</div>
