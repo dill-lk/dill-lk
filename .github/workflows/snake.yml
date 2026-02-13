@@ -16,20 +16,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Get current year
-        id: year
-        run: echo "YEAR=$(date +%Y)" >> $GITHUB_ENV
-
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dill-lk
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#883AEA&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&years=${{ env.YEAR }}
+            # color_snake: Bright Purple (#883AEA)
+            # color_dots: Standard GitHub Greens
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#883AEA&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&since=2026-01-01&until=2026-12-31
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to output branch
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
