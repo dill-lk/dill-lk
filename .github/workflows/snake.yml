@@ -2,8 +2,8 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Runs every 24 hours
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *" # Runs once every day at midnight
+  workflow_dispatch:
   push:
     branches:
     - main
@@ -22,7 +22,7 @@ jobs:
           github_user_name: dill-lk
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39d353&years=1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
