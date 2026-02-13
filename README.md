@@ -37,14 +37,11 @@ const dill = {
   <br />
   <sub><b>306 contributions</b> this year and counting!</sub>
 </div>
-
----
-
-### 🎨 Uploaded SVGs
-<p align="left">
+<br></br>
+<div>
+<p align="center">
   <img src="css3-alt-brands-solid-full.svg" width="40" height="40" />
   <img src="database-solid-full.svg" width="40" height="40" />
-  <img src="github-metrics.svg" width="40" height="40" />
   <img src="golang-brands-solid-full.svg" width="40" height="40" />
   <img src="html5-brands-solid-full.svg" width="40" height="40" />
   <img src="java-brands-solid-full.svg" width="40" height="40" />
@@ -57,3 +54,4 @@ const dill = {
   <img src="vuejs-brands-solid-full.svg" width="40" height="40" />
   <img src="wordpress-brands-solid-full.svg" width="40" height="40" />
 </p>
+</div>
