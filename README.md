@@ -37,7 +37,7 @@ const dill = {
   <br />
   <img src="https://raw.githubusercontent.com/dill-lk/dill-lk/output/github-contribution-grid-snake-dark.svg" alt="YAKA Snake" width="95%" />
   <br />
-  <sub>The snake is fueled by <b>287 contributions</b> and counting!</sub>
+  <sub>The snake is fueled by 2026 yr <b>306 contributions</b> and counting!</sub>
 </div>
 
 <div style="display: flex; justify-content: flex-end; filter: drop-shadow(0 0 12px rgba(136, 58, 234, 0.3)); margin-bottom: 10px;">
