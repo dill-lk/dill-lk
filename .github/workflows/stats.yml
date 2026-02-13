@@ -14,8 +14,17 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: dill-lk
           template: classic
-          # Only show the header (name/contributions) and nothing else
           base: header, metadata
           config_timezone: Asia/Colombo
           filename: github-metrics.svg
           
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Inject Outfit Font via CSS
+          extras_css: |
+            @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+            * { 
+              font-family: 'Outfit', sans-serif !important; 
+            }
