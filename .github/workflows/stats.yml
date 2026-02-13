@@ -1,11 +1,8 @@
-name: Metrics
+name: Minimal Metrics
 on:
-  # Schedule updates every 12 hours
   schedule: [{cron: "0 */12 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,27 +12,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
           user: dill-lk
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Colombo # Set to your local time
-          
-          # Appearance
-          design_title_color: "#883AEA"
-          design_text_color: "#c9d1d9"
-          
-          # Plugins
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          
-          # Output
+          # Only show the header (name/contributions) and nothing else
+          base: header, metadata
+          config_timezone: Asia/Colombo
           filename: github-metrics.svg
+          
