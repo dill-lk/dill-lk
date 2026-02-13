@@ -4,9 +4,7 @@
 <p><em>Full Stack Software Enginner from <a href="https://www.bcu.ac.uk/">University of Birminhamcity </a><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmhyM2k0ZTNhc3did2hvMWVwdGJiM2FqMmh4bjI0OG5uZDZnOHZpeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lEbkph3f721QFXr84Y/giphy.gif" width="30"></br>Software Engineer at <a href="/">Yaka Technolegies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-  
-
-
+ 
 
 [![Linkedin: jinuk](https://img.shields.io/badge/-dill.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dill.dev/)](https://www.linkedin.com/in/dill.dev/)
 [![GitHub jinuk](https://img.shields.io/github/followers/dill-lk?label=follow&style=social)](https://github.com/dill-lk)
@@ -40,3 +38,22 @@ const dill = {
   <sub><b>306 contributions</b> this year and counting!</sub>
 </div>
 
+---
+
+### 🎨 Uploaded SVGs
+<p align="left">
+  <img src="css3-alt-brands-solid-full.svg" width="40" height="40" />
+  <img src="database-solid-full.svg" width="40" height="40" />
+  <img src="github-metrics.svg" width="40" height="40" />
+  <img src="golang-brands-solid-full.svg" width="40" height="40" />
+  <img src="html5-brands-solid-full.svg" width="40" height="40" />
+  <img src="java-brands-solid-full.svg" width="40" height="40" />
+  <img src="js-brands-solid-full.svg" width="40" height="40" />
+  <img src="php-brands-solid-full.svg" width="40" height="40" />
+  <img src="python-brands-solid-full.svg" width="40" height="40" />
+  <img src="react-brands-solid-full.svg" width="40" height="40" />
+  <img src="swift-brands-solid-full.svg" width="40" height="40" />
+  <img src="typescript-brands-solid-full.svg" width="40" height="40" />
+  <img src="vuejs-brands-solid-full.svg" width="40" height="40" />
+  <img src="wordpress-brands-solid-full.svg" width="40" height="40" />
+</p>
